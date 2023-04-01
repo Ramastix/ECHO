@@ -45,7 +45,7 @@
     "last_directory_selection": "E:/Tester/PostmanEcho/src/test/java"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.postmanEchoTest1.shouldReturnPostmanEchoText">
+  <component name="RunManager" selected="Gradle.postmanEchoTest1">
     <configuration name="postmanEchoTest1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -117,8 +117,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.postmanEchoTest1.shouldReturnPostmanEchoText" />
         <item itemvalue="Gradle.postmanEchoTest1" />
+        <item itemvalue="Gradle.postmanEchoTest1.shouldReturnPostmanEchoText" />
         <item itemvalue="Gradle.postmanEchoTest1.shouldReturnPostmanEcho" />
       </list>
     </recent_temporary>
